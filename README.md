@@ -4,10 +4,10 @@ A front end built with create react app, using react components. Utilised a API 
 
 ## Learning Outcomes
 
--Data retrieval and representation.
--Component based architecture with prop drilling and event bubbling.
--Decoupled front-end from back-end.
--Accessability.
+- Data retrieval and representation.
+- Component based architecture with prop drilling and event bubbling.
+- Decoupled front-end from back-end.
+- Accessability.
 
 ## Available Scripts
 
