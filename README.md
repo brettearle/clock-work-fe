@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A front end built with create react app, using react components. Utilised a API written in vanilla Node based on clean architecture.
+
+## Learning Outcomes
+
+-Data retrieval and representation.
+-Component based architecture with prop drilling and event bubbling.
+-Decoupled front-end from back-end.
+-Accessability.
 
 ## Available Scripts
 
